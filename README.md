@@ -1,2 +1,2 @@
-# workintech-operators
-Workintech Operatörler
+# Workintech-Operators
+Workintech Operatörler ile ilgili test dosyalarına ait depo.
