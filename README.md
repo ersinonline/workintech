@@ -1,5 +1,5 @@
-# Workintech-Full-Stack-Developer
-Workintech'in 24 hafta süren Fullstack GPro programında, sıfırdan başlayarak profesyonel bir yazılımcı olma yolculuğuna çıkacaksın! Her hafta projelerle dolu bu serüvende yazılım kariyerine sağlam adımlar atacaksın. 🎯 <br><br><br>
+# Workintech Full Stack Developer Kampı
+Workintech'in yaklaşık 40 hafta süren Fullstack GPro programında, sıfırdan başlayarak profesyonel bir yazılımcı olma yolculuğuna çıkacağım! Her hafta projelerle dolu bu serüvende yazılım kariyerine sağlam adımlar atacağım. 🎯 <br><br><br>
 
 # 📅 Program Yapısı
 
