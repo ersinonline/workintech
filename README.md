@@ -16,7 +16,7 @@ Javascript ile yazılımın temellerini öğren! Değişkenler, veri türleri, f
 #### 📝 Yapılacaklar:
 * Taş-Kağıt-Makas oyunu gibi basit uygulamalar geliştirmek
 * Günlük projelerle algoritma kurmayı öğrenmek
-* Kariyer programı ile CV ve LinkedIn profilini hazırlamak
+* Kariyer programı ile CV ve LinkedIn profilini hazırlamak <br><br><br>
 
 
 
