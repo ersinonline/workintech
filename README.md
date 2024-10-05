@@ -20,7 +20,7 @@ Javascript ile yazılımın temellerini öğreniyorum! Değişkenler, veri türl
 
 ---
 
-#### **SPRINT 05-08: Web Uygulama Geliştirme**  
+### **SPRINT 05-08: Web Uygulama Geliştirme**  
 🕒 **Süre:** 7 hafta  <br>  
 💻 **Proje Sayısı:** 11 <br> <br>  
 React öğreniyorum! Facebook geliştiricileri tarafından kullanılan ve şirketlerin en çok talep ettiği bu kütüphaneyle dinamik web uygulamaları oluşturmayı öğreneceğim.
@@ -32,11 +32,11 @@ React öğreniyorum! Facebook geliştiricileri tarafından kullanılan ve şirke
 ##### 📝 **Yapacaklarım:**  
 * Bir pizza restoranı web sitesi geliştirip portföyüme ekleyeceğim  
 * Cypress.io ile E2E testler yazmayı öğreneceğim  
-* Kariyer programı ile iş arama tekniklerini öğrenip mülakatlara hazırlanmaya başlayacağım <br><br><br>  
+* Kariyer programı ile iş arama tekniklerini öğrenip mülakatlara hazırlanmaya başlayacağım <br>
 
 ---
 
-#### **SPRINT 09-12: AI Destekli İleri Web Geliştirme**  
+### **SPRINT 09-12: AI Destekli İleri Web Geliştirme**  
 🕒 **Süre:** 7 hafta  <br>  
 💻 **Proje Sayısı:** 11 <br> <br>  
 Yapay zeka ve farklı kütüphanelerle daha karmaşık web uygulamaları geliştirmeye başlayacağım. Redux ve TanStack Query ile state yönetimi yapmayı, Tailwind CSS ile stil düzenlemelerini nasıl optimize edeceğimi öğreneceğim.
@@ -50,11 +50,11 @@ Yapay zeka ve farklı kütüphanelerle daha karmaşık web uygulamaları gelişt
 
 ##### 📝 **Yapacaklarım:**  
 * Takım çalışmalarıyla e-ticaret sitesi geliştireceğim  
-* Kariyer programında teknik ve İK mülakatlarına hazırlanacağım <br><br><br>  
+* Kariyer programında teknik ve İK mülakatlarına hazırlanacağım <br>
 
 ---
 
-#### **SPRINT 13-16: Back-end Geliştirme**  
+### **SPRINT 13-16: Back-end Geliştirme**  
 🕒 **Süre:** 7 hafta  <br>  
 💻 **Proje Sayısı:** 14 <br> <br>  
 Java ile nesne tabanlı programlamayı öğreniyorum! Encapsulation, inheritance gibi önemli kavramları ve veri yapılarıyla çalışmayı öğrenip, SOLID prensiplerini uygulayacağım.
@@ -64,11 +64,11 @@ Java ile nesne tabanlı programlamayı öğreniyorum! Encapsulation, inheritance
 
 ##### 📝 **Yapacaklarım:**  
 * Kütüphane otomasyon sistemi geliştireceğim  
-* SOLID prensipleriyle yazılım dizaynları oluşturacağım <br><br><br>  
+* SOLID prensipleriyle yazılım dizaynları oluşturacağım <br>
 
 ---
 
-#### **SPRINT 17-20: Veritabanı & AI Destekli Web API Geliştirme**  
+### **SPRINT 17-20: Veritabanı & AI Destekli Web API Geliştirme**  
 🕒 **Süre:** 7 hafta  <br>  
 💻 **Proje Sayısı:** 14 <br> <br>  
 Spring Boot ve PostgreSQL ile back-end geliştirmeyi ve veri tabanlarını yönetmeyi öğreneceğim. Ayrıca OpenAI entegrasyonları yaparak AI destekli sistemler kuracağım.
@@ -80,11 +80,11 @@ Spring Boot ve PostgreSQL ile back-end geliştirmeyi ve veri tabanlarını yöne
 
 ##### 📝 **Yapacaklarım:**  
 * SQL komutlarını kullanarak veritabanı işlemleri gerçekleştireceğim  
-* Spring Security ile apilerim için güvenlik önlemleri alacağım <br><br><br>  
+* Spring Security ile apilerim için güvenlik önlemleri alacağım <br>
 
 ---
 
-#### **SPRINT 21-24: İş Başında Çalışmalar ve Kariyere Hazırlık**  
+### **SPRINT 21-24: İş Başında Çalışmalar ve Kariyere Hazırlık**  
 🕒 **Süre:** 4 hafta  <br>  
 💻 **Proje Sayısı:** 1 <br> <br>  
 Takım çalışmasıyla bir e-ticaret projesini baştan sona geliştirip iş hayatına hazırlık yapacağım. 20-40-60 yöntemiyle işe giriş disiplinini öğreneceğim.
