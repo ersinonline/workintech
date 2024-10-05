@@ -5,7 +5,7 @@ Workintech'in 30 Eylül'de başlayan ve 30 Haziran 2025'te bitmesi öngörülen,
 
 #### **SPRINT 01-04: Web & Temeller**  
 🕒 **Süre:** 7 hafta  <br>  
-💻 **Proje Sayısı:** 10 <br> <br>  
+💻 **Proje Sayısı:** 10 <br> 
 Javascript ile yazılımın temellerini öğreniyorum! Değişkenler, veri türleri, fonksiyonlar, koşullar ve döngüler gibi yazılımın temel yapı taşlarını kullanarak ilk uygulamalarımı geliştireceğim. HTML ve CSS ile web arayüzleri oluşturmayı ve responsive tasarımlar yapmayı da bu süreçte öğreneceğim.
 
 ##### **Öğreneceğim Teknolojiler:**  
