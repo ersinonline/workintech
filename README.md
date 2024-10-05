@@ -4,7 +4,7 @@ Workintech'in yaklaşık 40 hafta süren Fullstack GPro programında, sıfırdan
 # 📅 Program Yapısı
 
 ### SPRINT 01-04: Web & Temeller
-🕒 Süre: 7 hafta
+🕒 Süre: 7 hafta  <br>
 💻 Proje Sayısı: 10
 Javascript ile yazılımın temellerini öğren! Değişkenler, veri türleri, fonksiyonlar, koşullar ve döngüler gibi yazılımın temel yapı taşlarını kullanarak ilk uygulamalarını geliştir. HTML ve CSS ile web arayüzlerini geliştirmeyi öğrenecek, responsive tasarımlar oluşturacaksın.
 
