@@ -1,7 +1,3 @@
-İstediğin işaretlerle birlikte, tüm detayları eksiksiz olarak yeniden düzenledim:
-
----
-
 # 🚀 **Workintech Full Stack Developer Kampı** 🚀  
 Workintech'in 30 Eylül'de başlayan ve 30 Haziran 2025'te bitmesi öngörülen, yaklaşık 40 hafta süren **Fullstack GPro** programında, sıfırdan başlayarak profesyonel bir yazılımcı olma yolculuğuna çıkıyorum! Her hafta projelerle dolu bu serüvende yazılım kariyerimde sağlam adımlar atacağım. 🎯 <br><br><br>
 
