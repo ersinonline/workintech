@@ -16,7 +16,7 @@ Javascript ile yazılımın temellerini öğreniyorum! Değişkenler, veri türl
 ##### 📝 **Yapacaklarım:**  
 * Taş-Kağıt-Makas oyunu gibi basit uygulamalar geliştireceğim  
 * Günlük projelerle algoritma kurmayı öğreneceğim  
-* Kariyer programı ile CV ve LinkedIn profilimi hazırlayacağım <br><br><br>  
+* Kariyer programı ile CV ve LinkedIn profilimi hazırlayacağım <br><br>
 
 ---
 
