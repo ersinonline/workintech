@@ -1,7 +1,7 @@
 # Workintech-Full-Stack-Developer
-Workintech'in 24 hafta süren Fullstack GPro programında, sıfırdan başlayarak profesyonel bir yazılımcı olma yolculuğuna çıkacaksın! Her hafta projelerle dolu bu serüvende yazılım kariyerine sağlam adımlar atacaksın. 🎯
+Workintech'in 24 hafta süren Fullstack GPro programında, sıfırdan başlayarak profesyonel bir yazılımcı olma yolculuğuna çıkacaksın! Her hafta projelerle dolu bu serüvende yazılım kariyerine sağlam adımlar atacaksın. 🎯 <br><br><br>
 
-# 📅 Program Yapısı
+# 📅 Program Yapısı <br><br><br>
 
 ### SPRINT 01-04: Web & Temeller
 🕒 Süre: 7 hafta
@@ -32,7 +32,7 @@ React öğren! Facebook geliştiricileri tarafından kullanılan ve şirketlerin
 #### 📝 Yapılacaklar:
 * Bir pizza restoranı web sitesi geliştirip portföyüne eklemek
 * Cypress.io ile E2E testler yazmak
-* Kariyer programı ile iş arama tekniklerini öğrenmek
+* Kariyer programı ile iş arama tekniklerini öğrenmek <br><br><br>
 
 
 
@@ -50,7 +50,7 @@ Yapay zeka ve farklı kütüphanelerle çalışarak daha karmaşık web uygulama
 
 #### 📝 Yapılacaklar:
 * Takım çalışmalarıyla e-ticaret sitesi geliştirme
-* Kariyer programında teknik ve İK mülakatlarına hazırlanmak
+* Kariyer programında teknik ve İK mülakatlarına hazırlanmak <br><br><br>
 
 
 
@@ -64,7 +64,7 @@ Java ile nesne tabanlı programlama öğren! Encapsulation, inheritance gibi kav
 
 #### 📝 Yapılacaklar:
 * Kütüphane otomasyon sistemi geliştirme
-* SOLID prensipleriyle yazılım dizaynları oluşturma
+* SOLID prensipleriyle yazılım dizaynları oluşturma <br><br><br>
 
 
 
@@ -80,7 +80,7 @@ Spring Boot ve PostgreSQL ile back-end geliştirmeyi ve veri tabanlarını yöne
 
 #### 📝 Yapılacaklar:
 * SQL komutlarını kullanarak veritabanı işlemleri gerçekleştirmek
-* Spring Security ile apiler için güvenlik önlemleri almak
+* Spring Security ile apiler için güvenlik önlemleri almak <br><br><br>
 
 
 
@@ -91,7 +91,7 @@ Takım çalışmasıyla bir e-ticaret projesini baştan sona geliştirecek ve i�
 
 #### 📝 Yapılacaklar:
 * E-ticaret projesini ekip çalışmasıyla tamamlamak
-* Kariyer programı kapsamında işe alım testlerine hazırlanmak
+* Kariyer programı kapsamında işe alım testlerine hazırlanmak <br><br><br>
 
 
 #### 👩‍💻 Workintech Fullstack GPro ile yazılım dünyasında kariyerine sağlam bir adım at!
