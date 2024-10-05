@@ -21,7 +21,7 @@ Javascript ile yazılımın temellerini öğreniyorum! Değişkenler, veri türl
 ---
 
 ### **SPRINT 05-08: Web Uygulama Geliştirme**  
-🕒 **Süre:** 7 hafta  <br>  
+🕒 **Süre:** 7 hafta <br>  
 💻 **Proje Sayısı:** 11 <br> <br>  
 React öğreniyorum! Facebook geliştiricileri tarafından kullanılan ve şirketlerin en çok talep ettiği bu kütüphaneyle dinamik web uygulamaları oluşturmayı öğreneceğim.
 
@@ -37,7 +37,7 @@ React öğreniyorum! Facebook geliştiricileri tarafından kullanılan ve şirke
 ---
 
 ### **SPRINT 09-12: AI Destekli İleri Web Geliştirme**  
-🕒 **Süre:** 7 hafta  <br>  
+🕒 **Süre:** 7 hafta <br>  
 💻 **Proje Sayısı:** 11 <br> <br>  
 Yapay zeka ve farklı kütüphanelerle daha karmaşık web uygulamaları geliştirmeye başlayacağım. Redux ve TanStack Query ile state yönetimi yapmayı, Tailwind CSS ile stil düzenlemelerini nasıl optimize edeceğimi öğreneceğim.
 
@@ -55,7 +55,7 @@ Yapay zeka ve farklı kütüphanelerle daha karmaşık web uygulamaları gelişt
 ---
 
 ### **SPRINT 13-16: Back-end Geliştirme**  
-🕒 **Süre:** 7 hafta  <br>  
+🕒 **Süre:** 7 hafta <br>  
 💻 **Proje Sayısı:** 14 <br> <br>  
 Java ile nesne tabanlı programlamayı öğreniyorum! Encapsulation, inheritance gibi önemli kavramları ve veri yapılarıyla çalışmayı öğrenip, SOLID prensiplerini uygulayacağım.
 
@@ -69,7 +69,7 @@ Java ile nesne tabanlı programlamayı öğreniyorum! Encapsulation, inheritance
 ---
 
 ### **SPRINT 17-20: Veritabanı & AI Destekli Web API Geliştirme**  
-🕒 **Süre:** 7 hafta  <br>  
+🕒 **Süre:** 7 hafta <br>  
 💻 **Proje Sayısı:** 14 <br> <br>  
 Spring Boot ve PostgreSQL ile back-end geliştirmeyi ve veri tabanlarını yönetmeyi öğreneceğim. Ayrıca OpenAI entegrasyonları yaparak AI destekli sistemler kuracağım.
 
@@ -85,7 +85,7 @@ Spring Boot ve PostgreSQL ile back-end geliştirmeyi ve veri tabanlarını yöne
 ---
 
 ### **SPRINT 21-24: İş Başında Çalışmalar ve Kariyere Hazırlık**  
-🕒 **Süre:** 4 hafta  <br>  
+🕒 **Süre:** 4 hafta <br>  
 💻 **Proje Sayısı:** 1 <br> <br>  
 Takım çalışmasıyla bir e-ticaret projesini baştan sona geliştirip iş hayatına hazırlık yapacağım. 20-40-60 yöntemiyle işe giriş disiplinini öğreneceğim.
 
