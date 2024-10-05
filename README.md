@@ -3,8 +3,6 @@ Workintech'in 30 Eylül'de başlayan ve 30 Haziran 2025'te bitmesi öngörülen,
 
 # 📅 **Program Yapısı**
 
----
-
 #### **SPRINT 01-04: Web & Temeller**  
 🕒 **Süre:** 7 hafta  <br>  
 💻 **Proje Sayısı:** 10 <br> <br>  
