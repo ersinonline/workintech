@@ -91,7 +91,7 @@ Takım çalışmasıyla bir e-ticaret projesini baştan sona geliştirip iş hay
 
 ##### 📝 **Yapacaklarım:**  
 * E-ticaret projesini ekip çalışmasıyla tamamlayacağım  
-* Kariyer programı kapsamında işe alım testlerine hazırlanacağım <br><br><br>  
+* Kariyer programı kapsamında işe alım testlerine hazırlanacağım <br>
 
 ---
 
