@@ -5,7 +5,7 @@ Workintech'in yaklaşık 40 hafta süren Fullstack GPro programında, sıfırdan
 
 ### SPRINT 01-04: Web & Temeller
 🕒 Süre: 7 hafta  <br>
-💻 Proje Sayısı: 10
+💻 Proje Sayısı: 10 <br>
 Javascript ile yazılımın temellerini öğren! Değişkenler, veri türleri, fonksiyonlar, koşullar ve döngüler gibi yazılımın temel yapı taşlarını kullanarak ilk uygulamalarını geliştir. HTML ve CSS ile web arayüzlerini geliştirmeyi öğrenecek, responsive tasarımlar oluşturacaksın.
 
 #### Öğreneceğin Teknolojiler:
@@ -21,8 +21,8 @@ Javascript ile yazılımın temellerini öğren! Değişkenler, veri türleri, f
 
 
 ### SPRINT 05-08: Web Uygulama Geliştirme
-🕒 Süre: 7 hafta
-💻 Proje Sayısı: 11
+🕒 Süre: 7 hafta <br>
+💻 Proje Sayısı: 11 <br>
 React öğren! Facebook geliştiricileri tarafından kullanılan ve şirketlerin en çok talep ettiği bu kütüphaneyle dinamik web uygulamaları oluşturacaksın.
 
 #### Öğreneceğin Teknolojiler:
@@ -37,8 +37,8 @@ React öğren! Facebook geliştiricileri tarafından kullanılan ve şirketlerin
 
 
 ### SPRINT 09-12: AI Destekli İleri Web Geliştirme
-🕒 Süre: 7 hafta
-💻 Proje Sayısı: 11
+🕒 Süre: 7 hafta <br>
+💻 Proje Sayısı: 11 <br>
 Yapay zeka ve farklı kütüphanelerle çalışarak daha karmaşık web uygulamaları geliştireceksin. Redux ve TanStack Query ile state yönetimi, Tailwind CSS ile stil düzenlemeleri yapmayı öğreneceksin.
 
 #### Öğreneceğin Teknolojiler:
@@ -55,8 +55,8 @@ Yapay zeka ve farklı kütüphanelerle çalışarak daha karmaşık web uygulama
 
 
 ### SPRINT 13-16: Back-end Geliştirme
-🕒 Süre: 7 hafta
-💻 Proje Sayısı: 14
+🕒 Süre: 7 hafta <br>
+💻 Proje Sayısı: 14 <br>
 Java ile nesne tabanlı programlama öğren! Encapsulation, inheritance gibi kavramları ve veri yapılarıyla çalışmayı öğrenip, SOLID prensiplerini uygulayacaksın.
 
 #### Öğreneceğin Teknolojiler:
@@ -69,8 +69,8 @@ Java ile nesne tabanlı programlama öğren! Encapsulation, inheritance gibi kav
 
 
 ### SPRINT 17-20: Veritabanı & AI Destekli Web API Geliştirme
-🕒 Süre: 7 hafta
-💻 Proje Sayısı: 14
+🕒 Süre: 7 hafta <br>
+💻 Proje Sayısı: 14 <br>
 Spring Boot ve PostgreSQL ile back-end geliştirmeyi ve veri tabanlarını yönetmeyi öğreneceksin. Ayrıca OpenAI entegrasyonları yaparak AI destekli sistemler kuracaksın.
 
 #### Öğreneceğin Teknolojiler:
@@ -85,8 +85,8 @@ Spring Boot ve PostgreSQL ile back-end geliştirmeyi ve veri tabanlarını yöne
 
 
 ### SPRINT 21-24: İş Başında Çalışmalar ve Kariyere Hazırlık
-🕒 Süre: 4 hafta
-💻 Proje Sayısı: 1
+🕒 Süre: 4 hafta <br>
+💻 Proje Sayısı: 1 <br>
 Takım çalışmasıyla bir e-ticaret projesini baştan sona geliştirecek ve iş hayatına hazırlık yapacaksın. 20-40-60 yöntemiyle işe giriş disiplinini öğreneceksin.
 
 #### 📝 Yapılacaklar:
