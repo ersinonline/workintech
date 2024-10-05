@@ -1,7 +1,7 @@
 # Workintech-Full-Stack-Developer
 Workintech'in 24 hafta süren Fullstack GPro programında, sıfırdan başlayarak profesyonel bir yazılımcı olma yolculuğuna çıkacaksın! Her hafta projelerle dolu bu serüvende yazılım kariyerine sağlam adımlar atacaksın. 🎯 <br><br><br>
 
-# 📅 Program Yapısı <br><br><br>
+# 📅 Program Yapısı
 
 ### SPRINT 01-04: Web & Temeller
 🕒 Süre: 7 hafta
