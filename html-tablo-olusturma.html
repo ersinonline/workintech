@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Tablo Oluşturma</title>
+    <style>
+
+     /* kenarlıklar için ve kenarlık renkleri için yazılmalı */
+       
+     table, th, td {border: 1px solid #ffb700}
+        
+
+     /* satır arası yükseklik için padding kullanılır */
+
+     th, td {padding: 10px}
+
+
+     /* yazı hizalama için yazılmalı */
+     
+     th{text-align:left ;}
+   
+   </style>
+</head>
+<body>
+   
+    <h1 style="font-family:Arial, Helvetica, sans-serif;color: #ffffff;background-color:#ffb700;">Tablo Oluşturma</h1>
+
+    <table style="width: 100%;">
+        
+        <!-- th arasına tablo sütun başlıkları gelir -->
+        
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <th>Ad</th>
+            <th>Soyad</th>
+            <th>Yaş</th>
+        </tr>
+    
+    
+        <!-- td aralarına veriler gelir -->
+    
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad1</td>
+            <td>Soyad1</td>
+            <td>Yaş1</td>
+        </tr>
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad2</td>
+            <td>Soyad2</td>
+            <td>Yaş2</td>
+        </tr>
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad3</td>
+            <td>Soyad3</td>
+            <td>Yaş3</td>
+        </tr>
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad4</td>
+            <td>Soyad4</td>
+            <td>Yaş4</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <h1 style="font-family:Arial, Helvetica, sans-serif;color: #ffffff;background-color:#ffb700;">Birden Fazla Sütunu Tek Satır Yapma</h1>
+
+
+    <table style="width: 100%;">
+        
+        <!-- th arasına tablo sütun başlıkları gelir -->
+        
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <th>Ad</th>
+            <th>Soyad</th>
+            <th>Yaş</th>
+        </tr>
+    
+    
+        <!-- colspan ile birden fazla sütun birleştirilebilir -->
+    
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad1</td>
+            <td>Soyad1</td>
+            <td>Yaş1</td>
+        </tr>
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad2</td>
+            <td>Soyad2</td>
+            <td>Yaş2</td>
+        </tr>
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad3</td>
+            <td>Soyad3</td>
+            <td>Yaş3</td>
+        </tr>
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad4</td>
+            <td colspan="2">Ortak Satır</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <h1 style="font-family:Arial, Helvetica, sans-serif;color: #ffffff;background-color:#ffb700;">Birden Fazla Satırı Tek Sütun Yapma</h1>
+
+    <table style="width: 100%;">
+    
+
+        <!-- th arasına tablo sütun başlıkları gelir -->
+        
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <th>Ad</th>
+            <th>Soyad</th>
+            <th>Yaş</th>
+        </tr>
+    
+    
+        <!-- rowspan ile birden fazla satır birleştirilebilir. -->
+    
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad1</td>
+            <td rowspan="4">Soyad</td>
+            <td>Yaş1</td>
+        </tr>
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad2</td>
+            <td>Yaş2</td>
+        </tr>
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad3</td>
+            <td>Yaş3</td>
+        </tr>
+        <tr style="font-family:Arial, Helvetica, sans-serif;">
+            <td>Ad4</td>
+            <td>Yaş4</td>
+        </tr>
+    </table>
+
+
+</body>
+</html>
